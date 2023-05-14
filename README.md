@@ -4,7 +4,7 @@ Es una aplicación simple que nos permite ingresar personas y nos muestra una ta
 
 Desarrollada en HTML5, CSS3, JAVASCRIPT
 
-Fecha: Septiembre 2022
+Fecha: Septiembre 2022.
 
 Link:
 https://fabiangord.github.io/ListadoDePersonas-HTML5-CSS3-JS/
