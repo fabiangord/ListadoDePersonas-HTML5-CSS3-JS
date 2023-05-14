@@ -11,4 +11,4 @@ https://fabiangord.github.io/ListadoDePersonas-HTML5-CSS3-JS/
 
 # Servidor de desarrollo
 
-Para ejecutar la aplicación en el local, solo debes clonar el repositorio y abrir el index.html
+Para ejecutar la aplicación en el local, solo debes clonar el repositorio y abrir el index.html.
